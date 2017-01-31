@@ -6,7 +6,7 @@ __Instructor__
 
 Erol Taymaz
 
-Room A 216
+Room A216
 
 etaymaz@metu.edu.tr
 
