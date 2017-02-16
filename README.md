@@ -1,4 +1,4 @@
-# ECON 403   INTRODUCTION TO DATA SCIENCE
+# ECON 413   INTRODUCTION TO DATA SCIENCE
 ## Spring 2017
 
 
@@ -10,11 +10,10 @@ Room A216
 
 etaymaz@metu.edu.tr
 
-http://blog.metu.edu.tr/etaymaz
 
-__Lecture hours__
+__Lecture hours:__ Wed 14:40-17:30
 
-__Office hours__
+__Office hours:__ Wed 10:00-12:00
 
 __Course prerequisites__: IS 100, ECON 206
 
