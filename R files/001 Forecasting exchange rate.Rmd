@@ -14,12 +14,14 @@ output:
 library(ggplot2)
 library(forecast)
 
-rates <- read.csv("~/Desktop/9774.csv", header = F, sep = ";", skip = 11,
+exd <- read.csv("https://raw.githubusercontent.com/etaymaz/econ413/master/Data/TR_exr.csv",
+                  header = F, sep = ";", skip = 11, 
                   col.names = c("date", "euro", "usd"),
                   colClasses = c("character", "numeric", "numeric"))
-rates <- subset(rates, (!is.na(euro)) & euro != 0)
-rates$date <- as.Date(rates$date, format = "%d-%m-%Y")
-usd <- window(ts(rates$usd, frequency = 52, start = c(1999, 1)), start = 2015)
+
+exd <- subset(exd, (!is.na(euro)) & euro != 0)
+exd$date <- as.Date(exd$date, format = "%d-%m-%Y")
+usd <- window(ts(exd$usd, frequency = 52, start = c(1999, 1)), start = 2015)
 musd <- auto.arima(usd)
 fusd <- forecast(musd, h= 52)
 
