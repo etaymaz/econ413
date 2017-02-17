@@ -1,9 +1,9 @@
 <PRE>
-Kurlar-Döviz Kurları (Günlük)
-HAFTALIK,KESİKLİ,ORTALAMA
-Kullandığınız bilgisayarın Kontrol Panelinde Bölge ve Dil Seçenekleri, 
-Ek Ayarlar seçilerek seçenekler önceki sayfadaki uyarıdaki gibi tanımlanmadıysa,
-orijinal veride tam sayıdan sonra gelen sıfır(lar) tam sayıya eklenerek açılmış olabilir.
+Kurlar-DÃ¶viz KurlarÄ± (GÃ¼nlÃ¼k)
+HAFTALIK,KESÄ°KLÄ°,ORTALAMA
+KullandÄ±ÄŸÄ±nÄ±z bilgisayarÄ±n Kontrol Panelinde BÃ¶lge ve Dil SeÃ§enekleri, 
+Ek Ayarlar seÃ§ilerek seÃ§enekler Ã¶nceki sayfadaki uyarÄ±daki gibi tanÄ±mlanmadÄ±ysa,
+orijinal veride tam sayÄ±dan sonra gelen sÄ±fÄ±r(lar) tam sayÄ±ya eklenerek aÃ§Ä±lmÄ±ÅŸ olabilir.
 
 
 
@@ -3512,14 +3512,14 @@ orijinal veride tam sayıdan sonra gelen sıfır(lar) tam sayıya eklenerek açılmış 
 03-02-2017  ;      4.08804;      3.80802
 10-02-2017  ;      3.98320;      3.72188
 17-02-2017  ;      3.89950;      3.67216
-SEÇİLEN SERİLERİN AÇIKLAMALARI
+SEÃ‡Ä°LEN SERÄ°LERÄ°N AÃ‡IKLAMALARI
 ==============================
 TP.DK.EUR.S.1: (EUR) Euro  (Doviz Satis)
 TP.DK.USD.S.1: (USD) ABD Dolari  (Doviz Satis)
 <b>
- Kurlar-Döviz Kurları (Günlük) için not :</b>
-Bir önceki işgünü belirlenen gösterge niteliğindeki TCMB kurlarıdır.
-01.01.2005 tarihine kadar olan kurlar, 01.01.2005 tarihinde yapılan YTL dönüşümünden önceki TL değerlerini ifade etmektedir.
+ Kurlar-DÃ¶viz KurlarÄ± (GÃ¼nlÃ¼k) iÃ§in not :</b>
+Bir Ã¶nceki iÅŸgÃ¼nÃ¼ belirlenen gÃ¶sterge niteliÄŸindeki TCMB kurlarÄ±dÄ±r.
+01.01.2005 tarihine kadar olan kurlar, 01.01.2005 tarihinde yapÄ±lan YTL dÃ¶nÃ¼ÅŸÃ¼mÃ¼nden Ã¶nceki TL deÄŸerlerini ifade etmektedir.
 
 
 
